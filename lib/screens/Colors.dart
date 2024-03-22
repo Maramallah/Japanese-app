@@ -9,32 +9,32 @@ class ColorsPage extends StatelessWidget {
         enname: 'Red',
         image: 'assets/images/colors/color_red.png',
         jpname: 'Aka',
-        sound: 'assets/sounds/colors/red.wav'),
+        sound: 'sounds/colors/red.wav'),
     Model(
         enname: 'Green',
         image: 'assets/images/colors/color_green.png',
         jpname: 'Midori',
-        sound: 'assets/sounds/colors/green.wav'),
+        sound: 'sounds/colors/green.wav'),
     Model(
         enname: 'Yellow',
         image: 'assets/images/colors/yellow.png',
         jpname: 'Kiiro',
-        sound: 'assets/sounds/colors/yellow.wav'),
+        sound: 'sounds/colors/yellow.wav'),
     Model(
         enname: 'Brown',
         image: 'assets/images/colors/color_brown.png',
         jpname: 'Chairo',
-        sound: 'assets/sounds/colors/brown.wav'),
+        sound: 'sounds/colors/brown.wav'),
     Model(
         enname: 'White',
         image: 'assets/images/colors/color_white.png',
         jpname: 'Shiro',
-        sound: 'assets/sounds/colors/white.wav'),
+        sound: 'sounds/colors/white.wav'),
     Model(
         enname: 'Black',
         image: 'assets/images/colors/color_black.png',
         jpname: 'Kuro',
-        sound: 'assets/sounds/colors/black.wav'),
+        sound: 'sounds/colors/black.wav'),
   ];
 
 
@@ -44,7 +44,7 @@ class ColorsPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: const Color(0xff463126),
         title: const Text(
-          'Colors Page',
+          'Colors',
           style: TextStyle(color: Colors.white, fontSize: 24),
         ),
       ),

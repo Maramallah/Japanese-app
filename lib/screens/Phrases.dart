@@ -9,40 +9,40 @@ class PhrasesPage extends StatelessWidget {
         enname: 'Don\'t forget to subscribe ',
         
         jpname: 'Koudoku o wasurenaide kudasai',
-        sound: 'assets/sounds/phrases/dont_forget_to_subscribe.wav'),
+        sound: 'sounds/phrases/dont_forget_to_subscribe.wav'),
     Model(
         enname: 'I love programming',
         jpname: 'Puroguramingu ga daisuki desu',
-        sound: 'assets/sounds/phrases/i_love_programming.wav'),
+        sound: 'sounds/phrases/i_love_programming.wav'),
     Model(
         enname: 'Programming is easy',
         
         jpname: 'Puroguramingu wa kantan desu',
-        sound: 'assets/sounds/phrases/programming_is_easy.wav'),
+        sound: 'sounds/phrases/programming_is_easy.wav'),
     Model(
         enname: 'Where are you going?',
        
         jpname: 'Doko e iku no?',
-        sound: 'assets/sounds/phrases/where_are_you_going.wav'),
+        sound: 'sounds/phrases/where_are_you_going.wav'),
     Model(
         enname: 'What is your name?',
         jpname: 'Anata no namae wa nan desu ka?',
-        sound: 'assets/sounds/phrases/what_is_your_name.wav'),
+        sound: 'sounds/phrases/what_is_your_name.wav'),
     Model(
         enname: 'I love anime',
        
         jpname: 'Anime ga daisuki desu',
-        sound: 'assets/sounds/phrases/i_love_anime.wav'),
+        sound: 'sounds/phrases/i_love_anime.wav'),
     Model(
         enname: 'How are you feeling?',
       
         jpname: 'Kibun wa dou desu ka?',
-        sound: 'assets/sounds/phrases/how_are_you_feeling.wav'),
+        sound: 'sounds/phrases/how_are_you_feeling.wav'),
     Model(
         enname: 'Are you coming?',
       
         jpname: 'Kimasu ka?',
-        sound: 'assets/sounds/phrases/are_you_coming.wav'),
+        sound: 'sounds/phrases/are_you_coming.wav'),
    
   ];
 

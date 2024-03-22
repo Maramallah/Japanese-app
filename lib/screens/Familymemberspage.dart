@@ -9,52 +9,52 @@ class FamilyMemebers extends StatelessWidget {
         enname: 'Father',
         image: 'assets/images/family_members/family_father.png',
         jpname: 'Chichioya',
-        sound: 'assets/sounds/family_members/father.wav'),
+        sound: 'sounds/family_members/father.wav'),
     Model(
         enname: 'Daughter',
         image: 'assets/images/family_members/family_daughter.png',
         jpname: 'Musume',
-        sound: 'assets/sounds/family_members/daughter.wav'),
+        sound: 'sounds/family_members/daughter.wav'),
     Model(
         enname: 'Grandfather',
         image: 'assets/images/family_members/family_grandfather.png',
         jpname: 'Ojiichan',
-        sound: 'assets/sounds/family_members/grand father.wav'),
+        sound: 'sounds/family_members/grand father.wav'),
     Model(
         enname: 'Grandmother',
         image: 'assets/images/family_members/family_grandmother.png',
         jpname: 'Obaasan',
-        sound: 'assets/sounds/family_members/grand mother.wav'),
+        sound: 'sounds/family_members/grand mother.wav'),
     Model(
         enname: 'Mother',
         image: 'assets/images/family_members/family_mother.png',
         jpname: 'Hahaoya',
-        sound: 'assets/sounds/family_members/mother.wav'),
+        sound: 'sounds/family_members/mother.wav'),
     Model(
         enname: 'Son',
         image: 'assets/images/family_members/family_son.png',
         jpname: 'Musuko',
-        sound: 'assets/sounds/family_members/son.wav'),
+        sound: 'sounds/family_members/son.wav'),
     Model(
         enname: 'Younger Brother',
         image: 'assets/images/family_members/family_younger_brother.png',
         jpname: 'Otouto',
-        sound: 'assets/sounds/family_members/younger brohter.wav'),
+        sound: 'sounds/family_members/younger brohter.wav'),
     Model(
         enname: 'Older Brother',
         image: 'assets/images/family_members/family_older_brother.png',
         jpname: 'Ani',
-        sound: 'assets/sounds/family_members/older bother.wav'),
+        sound: 'sounds/family_members/older bother.wav'),
     Model(
         enname: 'Younger Sister',
         image: 'assets/images/family_members/family_younger_sister.png',
         jpname: 'Imouto',
-        sound: 'assets/sounds/family_members/younger sister.wav'),
+        sound: 'sounds/family_members/younger sister.wav'),
     Model(
         enname: 'Older Sister',
         image: 'assets/images/family_members/family_older_sister.png',
         jpname: 'Ane',
-        sound: 'assets/sounds/family_members/older sister.wav'),
+        sound: 'sounds/family_members/older sister.wav'),
    
   ];
 
@@ -65,7 +65,7 @@ class FamilyMemebers extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: const Color(0xff463126),
         title: const Text(
-          'Family Members Page',
+          'Family Members',
           style: TextStyle(color: Colors.white, fontSize: 24),
         ),
       ),
